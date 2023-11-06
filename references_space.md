@@ -17,6 +17,8 @@ NASA/JPL/University of Arizona (7 January, 2019). High Resolution Globe of Jupit
 
 Planets. (n.d.). NASA Solar System Exploration. https://solarsystem.nasa.gov/planets/overview/
 
+Southern New Hampshire University. (n.d.). Slide Show Template. Brightspace. Retrieved October 10, 2022, from https://learn.snhu.edu/
+
 Steve Lee, Mike Wolff, & NASA. (n.d.). A Closer Hubble Encounter With Mars - Elysium. [Image].  https://www.jpl.nasa.gov/images/pia01591-a-closer-hubble-encounter-with-mars-elysium
 
 WP (20 February, 2013) Planets2013. [Image]. https://commons.wikimedia.org/wiki/File:Planets2013_nl.svg#/media/File:Planets2013.svg
